@@ -1,0 +1,4 @@
+# 27/10/2021
+# 1) fix broken pip dependencies
+# 2) fix env vars DB_USERNAME and DB_CUSTOM_CONN
+# 3) test deploy passwd removal across dev/uat/prod
